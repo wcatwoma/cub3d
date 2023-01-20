@@ -1,0 +1,10 @@
+R 10 23
+
+NO ./resurs/textures/wall_one.xpm
+SO ./resurs/textures/wall_two.xpm
+WE ./resurs/textures/wall_three.xpm
+EA ./resurs/textures/wall_four.xpm
+S    ./resurs/textures/rick_3.xpm
+F    55,41,38
+C 53,76,78
+
